@@ -4,6 +4,7 @@ project:
 
 website:
   title: "cullaloe.com"
+  favicon: anarchy.gif # needs to be in root directory
 
 format:
   html:
