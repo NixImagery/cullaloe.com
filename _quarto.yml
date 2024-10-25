@@ -1,0 +1,15 @@
+project:
+  type: website
+  output-dir: cullaloe.com
+
+website:
+  title: "cullaloe.com"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
