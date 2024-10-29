@@ -1,7 +1,8 @@
 ---
-title: "cullaloe.com"
+title: sketchy stuff
+# subtitle: willy
+description: at cullaloe.com, because I won't use InstaGram
 ---
 
-![](IMG_0619.jpg)
+![Waiting for a friend outside the Botanic Gardens, Edinburgh. Ancient Parker fountain pen in Paperblanks journal.](IMG_0642.jpg)
 
-Nothing much to see here, we're just kicking the tyres^[Note the spelling. None of your colonial shit around here.].
