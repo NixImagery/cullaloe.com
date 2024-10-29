@@ -1,7 +1,7 @@
 ---
 title: sketchy stuff
 # subtitle: willy
-description: at cullaloe.com, because I won't use InstaGram
+description: at NixImagery.com, because I won't use InstaGram
 ---
 
 ![Waiting for a friend outside the Botanic Gardens, Edinburgh. Ancient Parker fountain pen in Paperblanks journal.](IMG_0642.jpg)

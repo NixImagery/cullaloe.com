@@ -1,9 +1,9 @@
 project:
   type: website
-  output-dir: cullaloe.com
+  output-dir: niximagery.com
 
 website:
-  title: "cullaloe.com"
+  title: "NixImagery.com"
   favicon: anarchy.gif # needs to be in root directory
 
 format:
