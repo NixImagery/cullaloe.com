@@ -1,8 +1,10 @@
 ---
-title: sketchy stuff
+# title: sketchy stuff
+title: Karamel.co.uk
 # subtitle: willy
-description: at NixImagery.com, because I won't use InstaGram
+# description: at NixImagery.com, because I won't use InstaGram
 ---
 
 ![Waiting for a friend outside the Botanic Gardens, Edinburgh. Ancient Parker fountain pen in Paperblanks journal.](IMG_0642.jpg)
 
+Why not check out [WildAye.co.uk](https://wildaye.co.uk/) or the [Wild Aye SubStack](https://wildaye.substack.com/)?

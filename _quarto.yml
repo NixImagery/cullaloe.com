@@ -1,14 +1,15 @@
 project:
   type: website
-  output-dir: niximagery.com
+  output-dir: karamel.co.uk
 
 website:
-  title: "NixImagery.com"
+  title: "KaraMel.co.uk"
   favicon: anarchy.gif # needs to be in root directory
 
 format:
   html:
-    theme: sketchy
+    # theme: sketchy
+    theme: cosmo
     toc: true
 
 
