@@ -1,15 +1,17 @@
 project:
   type: website
-  output-dir: karamel.co.uk
+  # output-dir: karamel.co.uk
+  output-dir: cullaloe.net
 
 website:
-  title: "KaraMel.co.uk"
+  # title: "Karamel.co.uk"
+  title: "sketchy stuff"
   favicon: anarchy.gif # needs to be in root directory
 
 format:
   html:
-    # theme: sketchy
-    theme: cosmo
+    theme: sketchy
+    # theme: cosmo
     toc: true
 
 
