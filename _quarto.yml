@@ -5,13 +5,26 @@ project:
 
 website:
   # title: "Karamel.co.uk"
-  title: "sketchy stuff"
+  title: "cullaloe.net"
   favicon: anarchy.gif # needs to be in root directory
+  search: false
+  navbar: 
+    background: black
+    right: 
+      - icon: globe
+        href: https://sptr.net
+        target: _blank
+        rel: me
+      - icon: github
+        href: https://github.com/NixImagery
+        target: _blank
+        rel: me
 
 format:
   html:
-    theme: sketchy
-    # theme: cosmo
+    # theme: sketchy
+    theme: darkly
+    css: style.css
     toc: true
 
 
