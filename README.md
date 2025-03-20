@@ -5,4 +5,4 @@ A repo in which to keep a very basic quarto website setup. I use this to rapidly
 You can see more of my stuff at [sptr.net](https://sptr.net).
 
 
-**Nick Hood** CPhys FInstP MRAeS SFHEA LRPS
+**Nick Hood** SFHEA FRAeS CPhys FInstP LRPS
